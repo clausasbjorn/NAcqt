@@ -1,1 +1,1 @@
-**Example of using Roslyn for automated code quality testing
+## Example of using Roslyn for automated code quality testing
